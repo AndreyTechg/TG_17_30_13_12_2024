@@ -193,6 +193,6 @@ def get_wiki(word):
 
 
 print(get_wiki("Османская Империя"))
-
+print("Lesson 2")
 bot.infinity_polling()
 
